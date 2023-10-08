@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Памятники</name>
+		<Placemark>
+			<name>Погибшим спортсменам</name>
+			<Point>
+				<coordinates>37.740593,55.801967,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>локомотив</name>
+			<Point>
+				<coordinates>37.741086,55.801753,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Чугунная арка</name>
+			<Point>
+				<coordinates>37.763831,55.790723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Петр I</name>
+			<Point>
+				<coordinates>37.763896,55.791152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ямщику</name>
+			<Point>
+				<coordinates>37.814557,55.765446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Полетаеву</name>
+			<Point>
+				<coordinates>37.781298,55.708948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Есенину</name>
+			<Point>
+				<coordinates>37.779474,55.704635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Участникам обороны Москвы</name>
+			<Point>
+				<coordinates>37.778981,55.703047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Сквер городов-героев</name>
+			<Point>
+				<coordinates>37.776728,55.697683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Добрый ангел мира</name>
+			<Point>
+				<coordinates>37.775376,55.651806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Г.Х. Андерсену</name>
+			<Point>
+				<coordinates>37.764325,55.647322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Студенческим приметам</name>
+			<Point>
+				<coordinates>37.761192,55.645798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Погибшим на подлодке Курск</name>
+			<Point>
+				<coordinates>37.684159,55.623396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дмитрий Кантемир</name>
+			<Point>
+				<coordinates>37.685661,55.619491,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Родная Гавань</name>
+			<Point>
+				<coordinates>37.601933,55.606767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Водителям Героям</name>
+			<Point>
+				<coordinates>37.472329,55.645777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ярыгин</name>
+			<Point>
+				<coordinates>37.492027,55.683070,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Воины-интернационалисты</name>
+			<Point>
+				<coordinates>37.503936,55.680839,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Партизаны Подмосковья</name>
+			<Point>
+				<coordinates>37.505331,55.679894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Аллея учёных</name>
+			<Point>
+				<coordinates>37.535071,55.705322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Антигитлеровская коалиция</name>
+			<Point>
+				<coordinates>37.500975,55.729354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Трагедия народов</name>
+			<Point>
+				<coordinates>37.502241,55.730899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Горорда воинской славы</name>
+			<Point>
+				<coordinates>37.506060,55.733560,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Штурвал Корабля Мечты</name>
+			<Point>
+				<coordinates>37.486040,55.748859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Линия оброны Москвы</name>
+			<Point>
+				<coordinates>37.517261,55.843616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Зое Космодемьянской</name>
+			<Point>
+				<coordinates>37.518399,55.842458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Чернобольцам</name>
+			<Point>
+				<coordinates>37.518291,55.842329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Тимирязев</name>
+			<Point>
+				<coordinates>37.550757,55.833252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Газ АА</name>
+			<Point>
+				<coordinates>37.557022,55.834561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Орден Победы</name>
+			<Point>
+				<coordinates>37.716904,55.815958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>40 лет Победы</name>
+			<Point>
+				<coordinates>37.720852,55.813876,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рокоссовскому</name>
+			<Point>
+				<coordinates>37.725294,55.811752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Чехов</name>
+			<Point>
+				<coordinates>37.516231,55.699507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>фонтан</name>
+			<Point>
+				<coordinates>37.640343,55.842758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Памятный камень</name>
+			<Point>
+				<coordinates>37.590861,55.843230,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Н.В. Цицин</name>
+			<Point>
+				<coordinates>37.589681,55.843917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>кролиководка</name>
+			<Point>
+				<coordinates>37.625429,55.840569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дворовый капитан (Асерьянц)</name>
+			<Point>
+				<coordinates>37.652767,55.835784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ростокинский дворник (Асерьянц)</name>
+			<Point>
+				<coordinates>37.658818,55.831965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Сквер Бажова</name>
+			<Point>
+				<coordinates>37.660041,55.832480,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ржавый медведь</name>
+			<Point>
+				<coordinates>37.542453,55.726822,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Военная техника</name>
+			<Point>
+				<coordinates>37.780547,55.710364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ленин</name>
+			<Point>
+				<coordinates>37.554533,55.834239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рыбак (Асерьянц)</name>
+			<Point>
+				<coordinates>37.482822,55.820485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Велосипедисты (Асерьянц)</name>
+			<Point>
+				<coordinates>37.482500,55.819348,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Стремянка (Асерьянц)</name>
+			<Point>
+				<coordinates>37.482157,55.819133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Художник (Асерьянц)</name>
+			<Point>
+				<coordinates>37.483358,55.818726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Монумент Победы</name>
+			<Point>
+				<coordinates>37.507005,55.731779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ломоносов</name>
+			<Point>
+				<coordinates>37.527668,55.701095,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>

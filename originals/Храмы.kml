@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Храмы</name>
+		<Placemark>
+			<name>Святителя Николая в Измайлове (2000 дер.)</name>
+			<Point>
+				<coordinates>37.751000,55.794242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Покрова Пресвятой Богородицы в Измайлове (1679)</name>
+			<Point>
+				<coordinates>37.764776,55.791367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Введенская (2018)</name>
+			<Point>
+				<coordinates>37.816832,55.742722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Успения Пресвятой Богородицы в Вешняках (1646)</name>
+			<Point>
+				<coordinates>37.798400,55.723732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Курской-Коренной иконы Богородицы (2015)</name>
+			<Point>
+				<coordinates>37.781319,55.709356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Влахернской иконы Божией Матери в Кузьминках (1774)</name>
+			<Point>
+				<coordinates>37.789967,55.690602,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Петра и Февронии Муромских (2014, дер.)</name>
+			<Point>
+				<coordinates>37.777693,55.652300,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Церковь Марии Египетской в Братееве (2014, дер.)</name>
+			<Point>
+				<coordinates>37.743854,55.638610,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Троицы Живоначальной в Борисове (1873)</name>
+			<Point>
+				<coordinates>37.728684,55.629855,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>&quot;Живоносный Источник&quot; в Царицыно 1765</name>
+			<Point>
+				<coordinates>37.681370,55.616959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>012</name>
+			<Point>
+				<coordinates>37.634356,55.597046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Всехсвятская часовня (1995)</name>
+			<Point>
+				<coordinates>37.626524,55.604428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Покрова Пресвятой Богородицы в Покровском-Городне (1722)</name>
+			<Point>
+				<coordinates>37.628305,55.603140,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Святителя Киприана (стр., 2022)</name>
+			<Point>
+				<coordinates>37.579210,55.605029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Неопалимая Купина (2014, дер.)</name>
+			<Point>
+				<coordinates>37.458875,55.674637,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Александра Невского при МГИМО (2016)</name>
+			<Point>
+				<coordinates>37.481534,55.679100,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Живоначальной Троицы на Воробьёвых горах (1813)</name>
+			<Point>
+				<coordinates>37.540650,55.710493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Троицы Живоначальной в Троице-Лыкове (1697)</name>
+			<Point>
+				<coordinates>37.406068,55.788642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Успения Богородицы в Троице-Лыкове (1858)</name>
+			<Point>
+				<coordinates>37.405574,55.790359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Великомученика Пантелеймона (2000)</name>
+			<Point>
+				<coordinates>37.456064,55.819262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Святителя Спиридона Тримифунтского Чудотворца (2022)</name>
+			<Point>
+				<coordinates>37.528398,55.830592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Георгия Победоносца в Коптеве (1997, дер.)</name>
+			<Point>
+				<coordinates>37.530115,55.830441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>14000 младенцев, Иродом убиенных (дер.)</name>
+			<Point>
+				<coordinates>37.529685,55.830613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ризоположения Богородицы в Леонове (1722)</name>
+			<Point>
+				<coordinates>37.644119,55.841685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм Кирилла и Мефодия (2021)</name>
+			<Point>
+				<coordinates>37.658152,55.832072,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Храм-часовня Неупиваемая Чаша (2014, дер.)</name>
+			<Point>
+				<coordinates>37.658946,55.831386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Всемилостивого Спаса в Кускове (1739)</name>
+			<Point>
+				<coordinates>37.808421,55.734805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Анастасии Узорешительницы в Тёплом Стане (2004)</name>
+			<Point>
+				<coordinates>37.490697,55.625435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Калужской иконы Божией Матери (стр.)</name>
+			<Point>
+				<coordinates>37.489560,55.626014,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Илии Пророка в Черкизове (1690)</name>
+			<Point>
+				<coordinates>37.734370,55.800272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Димитрия, митрополита Ростовского (2019)</name>
+			<Point>
+				<coordinates>37.800073,55.721136,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Живоначальной Троицы в Орехове-Борисове (2004)</name>
+			<Point>
+				<coordinates>37.711968,55.627430,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Иоанна Кронштадтского (2016)</name>
+			<Point>
+				<coordinates>37.508163,55.846299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Покрова Пресвятой Богородицы в Стрешневе (1620)</name>
+			<Point>
+				<coordinates>37.471685,55.814627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Николая Чудотворца (2014, дер., 2022)</name>
+			<Point>
+				<coordinates>37.463682,55.810271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Священномученика Ермогена (2012)</name>
+			<Point>
+				<coordinates>37.406132,55.769652,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рождества Богородицы в Крылатском (1858)</name>
+			<Point>
+				<coordinates>37.425895,55.755576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Часовня св. Сергия (2014)</name>
+			<Point>
+				<coordinates>37.459047,55.763644,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Покрова в Филях (1694)</name>
+			<Point>
+				<coordinates>37.510137,55.750533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Спиридона Тримифунтского в Фили-Давыдково (2020)</name>
+			<Point>
+				<coordinates>37.496426,55.742744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Георгия Победоносца на Поклонной горе (1995)</name>
+			<Point>
+				<coordinates>37.511983,55.732423,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Живоначальной Троицы в Троицком-Голенищеве (1646)</name>
+			<Point>
+				<coordinates>37.521682,55.721909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Николая Чудотворца в Бирюлеве (1957, дер.)</name>
+			<Point>
+				<coordinates>37.651844,55.589901,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>
