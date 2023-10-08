@@ -2,7 +2,7 @@
 
 ![Транспортная доступность](zkm-transport-map.svg)
 
-[Ходоки и ездоки](zkm-champs.html)
+[Ходоки и ездоки](https://hoverhell.github.io/mgc/zkm-champs.html)
 
 [Исходные данные](originals/)
 
