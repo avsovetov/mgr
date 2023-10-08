@@ -1,0 +1,34 @@
+#!/bin/sh
+# Usage:
+#
+#     git diff --unified=20 MGC.kml | ./tools/diff_to_tracks
+#
+# then upload `diff_original.kml` and `diff_resulting.kml` and make a link.
+#
+# TODO: merge-request-level tooling.
+
+HEADER='<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>MGC</name>
+		<Placemark>
+			<name>Line 1</name>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+'
+
+FOOTER='
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
+'
+
+DATA="$(cat)"
+V1="$(printf "%s" "$DATA" | sed -rn 's/^[ -][ \t]{4,}([0-9].*)/\1/ p')"
+V2="$(printf "%s" "$DATA" | sed -rn 's/^[ +][ \t]{4,}([0-9].*)/\1/ p')"
+
+printf "%s%s%s" "$HEADER" "$V1" "$FOOTER" > diff_original.kml
+printf "%s%s%s" "$HEADER" "$V2" "$FOOTER" > diff_resulting.kml
