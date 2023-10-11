@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>МЦК, МЦД</name>
+
+		<Placemark>
+			<name>МЦК Владыкино (2)</name>
+			<Point>
+				<coordinates>37.589938,55.846342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Ботанический сад</name>
+			<Point>
+				<coordinates>37.639699,55.845440,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Ростокино (2)</name>
+			<Point>
+				<coordinates>37.668624,55.838939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Белокаменная</name>
+			<Point>
+				<coordinates>37.702613,55.829304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Бульвар Рокоссовского</name>
+			<Point>
+				<coordinates>37.738404,55.816537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Локомотив</name>
+			<Point>
+				<coordinates>37.745979,55.802868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Измайлово (1)</name>
+			<Point>
+				<coordinates>37.746236,55.788427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД4 Новогиреево</name>
+			<Point>
+				<coordinates>37.818291,55.744396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Балтийская (1)</name>
+			<Point>
+				<coordinates>37.493958,55.825463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Коптево</name>
+			<Point>
+				<coordinates>37.521875,55.840333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД3 Петровско-Разумовская</name>
+			<Point>
+				<coordinates>37.568953,55.839497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД3 Вешняки</name>
+			<Point>
+				<coordinates>37.797391,55.722810,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД4 Очаково</name>
+			<Point>
+				<coordinates>37.450635,55.682748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД4 Поклонная</name>
+			<Point>
+				<coordinates>37.511532,55.728410,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД5 Яуза</name>
+			<Point>
+				<coordinates>37.671242,55.829326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД5 Бирюлёво-Товарная</name>
+			<Point>
+				<coordinates>37.653968,55.592841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Покровское</name>
+			<Point>
+				<coordinates>37.632210,55.602797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Царицыно</name>
+			<Point>
+				<coordinates>37.667851,55.617732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Москворечье (2)</name>
+			<Point>
+				<coordinates>37.689352,55.639790,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Люблино (3)</name>
+			<Point>
+				<coordinates>37.734799,55.684937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Гражданская (1)</name>
+			<Point>
+				<coordinates>37.551379,55.806237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Стрешнево (5)</name>
+			<Point>
+				<coordinates>37.487392,55.815657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Щукинская</name>
+			<Point>
+				<coordinates>37.460441,55.811215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД1 Фили</name>
+			<Point>
+				<coordinates>37.514686,55.744353,0</coordinates>
+			</Point>
+		</Placemark>
+
+	</Document>
+	</kml>
