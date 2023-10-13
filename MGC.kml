@@ -144,15 +144,15 @@
 					37.689824,55.823296
 					37.690189,55.823124
 					37.691583,55.824648
-					37.691820,55.824648
-					37.692528,55.824219
-					37.692935,55.824176
-					37.693193,55.824562
-					37.694287,55.825463
-					37.694652,55.825678
-					37.695317,55.825699
+					37.691699,55.824895
+					37.691710,55.825060
+					37.691903,55.825678
+					37.691946,55.825877
+					37.692032,55.825865
+					37.692305,55.825874
+					37.694124,55.825949
+					37.694403,55.825883
 					37.695339,55.825850
-					37.695553,55.825957
 					37.695851,55.826121
 					37.696753,55.826389
 					37.697214,55.826811
@@ -2111,17 +2111,14 @@
 				<coordinates>37.504945,55.618676,0</coordinates>
 			</Point>
 		</Placemark>
-
-
-
 		<Placemark>
-			<name>WIP: Вело: объезд узкой тропинки</name>
+			<name>Вело: объезд узкой тропинки</name>
 			<Point>
 				<coordinates>37.677644,55.820160,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>WIP: Вело: объезд узкой тропинки</name>
+			<name>Вело: объезд узкой тропинки</name>
 			<Point>
 				<coordinates>37.695492,55.825949,0</coordinates>
 			</Point>
@@ -2130,12 +2127,6 @@
 			<name>Вело: Проход мимо ст. Белокаменная</name>
 			<Point>
 				<coordinates>37.693952,55.831963,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: подземный переход с пандусами</name>
-			<Point>
-				<coordinates>37.740081,55.800509,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -2181,7 +2172,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>WIP: Вело: объезд на попробовать</name>
+			<name>Вело: объезд надземного перехода</name>
 			<Point>
 				<coordinates>37.741084,55.800636,0</coordinates>
 			</Point>
@@ -2193,7 +2184,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: пропуск моста</name>
+			<name>Вело: пропуск акведука и моста</name>
 			<Point>
 				<coordinates>37.655296,55.828640,0</coordinates>
 			</Point>
@@ -2228,6 +2219,17 @@
 				<coordinates>37.686163,55.619712,0</coordinates>
 			</Point>
 		</Placemark>
-
+		<Placemark>
+			<name>WIP: Вело: объезд речки</name>
+			<Point>
+				<coordinates>37.691538,55.824614,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: подземный переход с пологими пандусами</name>
+			<Point>
+				<coordinates>37.750198,55.802324,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 	</kml>
