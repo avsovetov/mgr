@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Обходы на время ремонта и дождей</name>
+		<Placemark>
+			<name>Line 1</name>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					37.541272,55.709721
+					37.539792,55.710729
+					37.537367,55.713411
+					37.536015,55.716866
+					37.535565,55.720170
+					37.535307,55.723690
+					37.535307,55.725556
+					37.535457,55.726200
+					37.536037,55.726565
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 2</name>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					37.821553,55.659896
+					37.819493,55.660604
+					37.813270,55.660540
+					37.811768,55.661055
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 3</name>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					37.575304,55.836707
+					37.575476,55.836535
+					37.576034,55.836471
+					37.573995,55.833381
+					37.573438,55.833510
+					37.572536,55.833488
+					37.572386,55.834411
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Line 4</name>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					37.572837,55.834776
+					37.571828,55.836171
+					37.571056,55.837630
+					37.570562,55.839046
+					37.573845,55.837008
+					37.575626,55.837887
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	</kml>
