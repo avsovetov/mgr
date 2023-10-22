@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
-		<name>MGC</name>
+		<name>MGR</name>
 		<Placemark>
 			<name>Line 1</name>
 			<LineString>
@@ -783,8 +783,6 @@
 					37.681370,55.622731
 					37.680847,55.621975
 					37.681147,55.621754
-					37.681797,55.621611
-					37.682231,55.621487
 					37.682360,55.621451
 					37.682521,55.621575
 					37.683143,55.621348
