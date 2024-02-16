@@ -10,6 +10,6 @@
 
 [ВКонтакте](https://vk.com/club179530397)
 
-[Ходоки и ездоки](https://avsovetov.github.io/MGR/zkm-champs.html)
+[Ходоки и ездоки](https://avsovetov.github.io/mgr/zkm-champs.html)
 
 ![Транспортная доступность](zkm-transport-map.svg)
