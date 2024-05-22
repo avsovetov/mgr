@@ -99,12 +99,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: объезд речки</name>
-			<Point>
-				<coordinates>37.691541,55.824605,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Вело: подземный переход с пологими пандусами</name>
 			<Point>
 				<coordinates>37.750206,55.802332,0</coordinates>
@@ -390,6 +384,42 @@
 			<name>Вело: по велодорожке</name>
 			<Point>
 				<coordinates>37.731793,55.807145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: объезд закрытого ВДНХ</name>
+			<Point>
+				<coordinates>37.622804,55.841323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: сокращение по Саду Будущего</name>
+			<Point>
+				<coordinates>37.638516,55.842362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: проезд через более пустую парковку</name>
+			<Point>
+				<coordinates>37.643897,55.839488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: велодорожка по парку Спорта</name>
+			<Point>
+				<coordinates>37.650983,55.836837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: сокращение по парку Акведук</name>
+			<Point>
+				<coordinates>37.656101,55.831132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: выпрямление через Яузский лесопарк, объезд речки</name>
+			<Point>
+				<coordinates>37.684844,55.820670,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>
