@@ -387,9 +387,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: объезд закрытого ВДНХ</name>
+			<name>Вело: объезд по асфальту</name>
 			<Point>
-				<coordinates>37.622804,55.841323,0</coordinates>
+				<coordinates>37.621586,55.840889,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
