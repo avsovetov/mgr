@@ -5,7 +5,7 @@ ds="$(date +%d.%m.%Y)"
 rm named/ЗКМ_*.kml
 newname="ЗКМ_${ds}.kml"
 printf "%s\n" "$newname" > named/latest
-ln -s "../MGR.kml" "named/${newname}"
+cp "./MGR.kml" "./named/${newname}"
 
 
 make_redirector() {
@@ -37,4 +37,3 @@ ${trackonly_url}\
 
 make_redirector "$main_url" "Зелёное Кольцо Моксвы НаКарте" > ./totrack/index.html
 make_redirector "$trackonly_url" "Зелёное Кольцо Моксвы (только трек) НаКарте" > ./totrackonly/index.html
-
