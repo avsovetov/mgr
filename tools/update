@@ -41,8 +41,8 @@ ${extra_tracks_url_piece}\
 make_redirector "$main_url" "Зелёное Кольцо Моксвы НаКарте" > ./totrack/index.html
 make_redirector "$trackonly_url" "Зелёное Кольцо Моксвы (только трек) НаКарте" > ./totrackonly/index.html
 
-cycling_latest_name="$(curl -fs 'https://raw.githubusercontent.com/avsovetov/mgr/cycling/named/latest')"
-cycling_track_url="${base_url}${ROOT_CYCLING_UQ}named%2F${cycling_latest_name}"
+cycling_latest_name="$(curl -fs 'https://raw.githubusercontent.com/avsovetov/mgr/cycling/named_cycling/latest')"
+cycling_track_url="${base_url}${ROOT_CYCLING_UQ}named_cycling%2F${cycling_latest_name}"
 # + МЦК_МЦД (без метро), + Велопримечания, + Велоальтернативы
 cycling_url="\
 ${cycling_track_url}\
