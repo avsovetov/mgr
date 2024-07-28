@@ -13,7 +13,7 @@ make_redirector() {
     title="$2"
     cat <<_EOF
 <!DOCTYPE html><html><head>
-<meta http-equiv=\"refresh\" content=\"1; url='${url}'\" />\n"
+<meta http-equiv="refresh" content="1; url='${url}'" />
 </head><body>
 <p><a href="${url}">${title}</a></p>
 </body></html>
