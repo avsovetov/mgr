@@ -1,13 +1,6 @@
 #!/bin/sh -x
 set -eu
 
-ds="$(date +%d.%m.%Y)"
-rm named/ЗКМ_*.kml
-newname="ЗКМ_${ds}.kml"
-printf "%s\n" "$newname" > named/latest
-cp "./MGR.kml" "./named/${newname}"
-
-
 make_redirector() {
     url="$1"
     title="$2"
@@ -20,6 +13,7 @@ make_redirector() {
 _EOF
 }
 
+newname="$(cat ./named/latest)"
 ROOT_UQ="https%3A%2F%2Fraw.githubusercontent.com%2Favsovetov%2Fmgr%2Fmaster%2F"
 ROOT_CYCLING_UQ="https%3A%2F%2Fraw.githubusercontent.com%2Favsovetov%2Fmgr%2Fcycling%2F"
 base_url="https://nakarte.me/#m=11/55.71686/37.66525&l=O&nktu="
