@@ -13,3 +13,10 @@
 [Ходоки и ездоки](zkm-champs.md)
 
 ![Транспортная доступность](zkm-transport-map.svg)
+
+
+## Прочее ##
+
+[ЦОДД «Зелёное Кольцо»](https://gucodd.ru/green-ring)
+([На карте](https://nakarte.me/#m=11/55.71686/37.66525&l=O&nktu=https%3A%2F%2Fraw.githubusercontent.com%2Favsovetov%2Fmgr%2Fmaster%2Foriginals%2Fgucodd_gr.gpx),
+[Источник](https://drive.google.com/uc?export=download&id=1siLWRqRhnOOVJJLT7S6CpbJEQlweQ7l6))
