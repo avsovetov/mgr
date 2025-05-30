@@ -2,7 +2,7 @@
 set -eu
 
 ds="$(date +%d.%m.%Y)"
-rm named_cycling/ЗКМ_*.kml
+# rm named_cycling/ЗКМ_*.kml
 newname="ЗКМ_ВЕЛО_${ds}.kml"
 printf "%s\n" "$newname" > named_cycling/latest
 cp "./MGR.kml" "./named_cycling/${newname}"
