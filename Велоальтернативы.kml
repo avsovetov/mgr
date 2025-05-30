@@ -7,42 +7,6 @@
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
-					37.739370,55.800487
-					37.739348,55.800358
-					37.738726,55.800293
-					37.733126,55.799328
-					37.734198,55.797633
-					37.734563,55.796989
-					37.734563,55.796195
-					37.733962,55.795337
-					37.735078,55.795380
-					37.735314,55.793921
-					37.735486,55.793856
-					37.736366,55.786775
-					37.741279,55.787011
-					37.742760,55.787161
-					37.743747,55.787183
-					37.745378,55.787333
-					37.745421,55.787419
-					37.745828,55.787505
-					37.745914,55.787612
-					37.746086,55.787612
-					37.746987,55.787869
-					37.747030,55.787998
-					37.747073,55.788921
-					37.748875,55.788706
-					37.750077,55.788814
-					37.750313,55.788771
-					37.751665,55.788856
-					37.752352,55.791796
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 2</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
 					37.468939,55.643502
 					37.468617,55.643373
 					37.467694,55.643502
@@ -54,7 +18,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 3</name>
+			<name>Line 2</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -71,7 +35,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 4</name>
+			<name>Line 3</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -88,7 +52,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 5</name>
+			<name>Line 4</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -107,7 +71,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 6</name>
+			<name>Line 5</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -133,7 +97,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 7</name>
+			<name>Line 6</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -160,7 +124,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 8</name>
+			<name>Line 7</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -187,7 +151,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 9</name>
+			<name>Line 8</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -206,59 +170,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 10</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.447481,55.753773
-					37.447760,55.754009
-					37.447781,55.754181
-					37.447245,55.754953
-					37.447138,55.755318
-					37.446987,55.756627
-					37.446923,55.756885
-					37.446987,55.756970
-					37.443983,55.758193
-					37.443640,55.758387
-					37.443447,55.758601
-					37.443297,55.758687
-					37.443125,55.758859
-					37.447867,55.769373
-					37.449519,55.773149
-					37.449305,55.773300
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 11</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.424328,55.773149
-					37.423878,55.773407
-					37.423084,55.773622
-					37.422848,55.773600
-					37.422526,55.773493
-					37.421818,55.773600
-					37.420723,55.773579
-					37.419693,55.773471
-					37.419350,55.773364
-					37.418878,55.773321
-					37.418234,55.773192
-					37.417741,55.773042
-					37.417419,55.773021
-					37.416260,55.773107
-					37.414973,55.772913
-					37.414307,55.772935
-					37.413921,55.772720
-					37.413492,55.772634
-					37.411969,55.772613
-					37.410874,55.772484
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 12</name>
+			<name>Line 9</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -275,44 +187,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 13</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.404651,55.771690
-					37.403407,55.771647
-					37.398665,55.771218
-					37.397635,55.771175
-					37.395446,55.771175
-					37.390661,55.771004
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 14</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.461901,55.825077
-					37.462158,55.824820
-					37.462416,55.824691
-					37.463553,55.824541
-					37.464046,55.824412
-					37.464926,55.823918
-					37.465248,55.823596
-					37.466085,55.823167
-					37.466750,55.823060
-					37.469046,55.824154
-					37.470805,55.824669
-					37.471728,55.824798
-					37.472415,55.824820
-					37.473166,55.824905
-					37.473337,55.824970
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 15</name>
+			<name>Line 10</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -326,18 +201,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 16</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.540800,55.824176
-					37.540994,55.824347
-					37.543011,55.825356
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 17</name>
+			<name>Line 11</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -376,7 +240,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 18</name>
+			<name>Line 12</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -391,12 +255,10 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 19</name>
+			<name>Line 13</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
-					37.461858,55.825034
-					37.461858,55.824970
 					37.462115,55.824755
 					37.462351,55.824648
 					37.463510,55.824476
@@ -412,7 +274,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 20</name>
+			<name>Line 14</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -425,7 +287,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 21</name>
+			<name>Line 15</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -442,7 +304,6 @@
 					37.627683,55.601295
 					37.627404,55.601188
 					37.626996,55.600887
-					37.626867,55.600866
 					37.626781,55.600887
 					37.626095,55.601488
 					37.626009,55.601660
@@ -458,32 +319,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 22</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.588951,55.606445
-					37.589209,55.606187
-					37.589273,55.605951
-					37.589080,55.605780
-					37.589016,55.605758
-					37.587492,55.605844
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 23</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.579489,55.604814
-					37.579124,55.604878
-					37.577901,55.604835
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 24</name>
+			<name>Line 16</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -499,7 +335,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 25</name>
+			<name>Line 17</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -528,21 +364,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 26</name>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					37.464797,55.645348
-					37.463360,55.646635
-					37.462780,55.647214
-					37.461235,55.648588
-					37.459154,55.650240
-					37.458789,55.650455
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Line 27</name>
+			<name>Line 18</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -580,7 +402,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 28</name>
+			<name>Line 19</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -617,7 +439,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 29</name>
+			<name>Line 20</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -631,7 +453,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 30</name>
+			<name>Line 21</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -654,7 +476,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 31</name>
+			<name>Line 22</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -672,7 +494,7 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 32</name>
+			<name>Line 23</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -696,59 +518,20 @@
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 33</name>
+			<name>Line 24</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
-					37.702892,55.827158
-					37.703042,55.828639
-					37.701733,55.829047
-					37.701797,55.829133
-					37.702141,55.829004
-					37.702892,55.829690
-					37.702441,55.829841
-					37.702505,55.829884
-					37.702763,55.829776
-					37.702806,55.829819
-					37.702441,55.829926
-					37.702806,55.830227
-					37.703256,55.830055
-					37.703299,55.830120
-					37.702913,55.830227
-					37.703471,55.830978
-					37.710938,55.831278
 					37.728062,55.832094
 					37.726688,55.842393
 					37.762716,55.842930
 					37.764346,55.833789
 					37.745163,55.832973
-					37.744949,55.832845
-					37.745335,55.831772
-					37.744713,55.831514
-					37.742631,55.829926
-					37.741730,55.828725
-					37.740421,55.827566
-					37.739134,55.826279
-					37.736301,55.824712
-					37.734971,55.824176
-					37.734370,55.823854
-					37.734005,55.823446
-					37.733512,55.823189
-					37.729199,55.822588
-					37.727353,55.822803
-					37.726495,55.822245
-					37.725808,55.822438
-					37.724585,55.821300
-					37.725530,55.820936
-					37.721753,55.818640
-					37.721495,55.818726
-					37.721259,55.818618
-					37.716839,55.815829
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
-			<name>Line 34</name>
+			<name>Line 25</name>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -763,12 +546,6 @@
 					37.491306,55.833831
 				</coordinates>
 			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>Велоальтернатива: заворот через 3 светофора и +2 км</name>
-			<Point>
-				<coordinates>37.739134,55.800315,0</coordinates>
-			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Велоальтернатива: неудобный спуск и мостик</name>
@@ -813,33 +590,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Велоальтернатива: объезд вдоль канала</name>
-			<Point>
-				<coordinates>37.447481,55.753773,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Велоальтернатива: по велодорожкам</name>
-			<Point>
-				<coordinates>37.424328,55.773149,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>WIP: Велоальтернатива: мимо лесенки</name>
 			<Point>
 				<coordinates>37.404780,55.771476,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>WIP: Велоальтернатива: мимо лесничества</name>
-			<Point>
-				<coordinates>37.404630,55.771690,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Велоальтернатива: объезд</name>
-			<Point>
-				<coordinates>37.461901,55.825077,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -855,12 +608,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Велоальтернатива: мимо кладбища</name>
-			<Point>
-				<coordinates>37.540800,55.824176,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Велоальтернатива: объезд мимо моста</name>
 			<Point>
 				<coordinates>37.568974,55.836922,0</coordinates>
@@ -873,33 +620,15 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Велоальтернатива: по тротуарам</name>
+			<name>Велоальтернатива: по дороге</name>
 			<Point>
-				<coordinates>37.461836,55.825034,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Велоальтернатива: по третьему ярусу набережной</name>
-			<Point>
-				<coordinates>37.447824,55.809520,0</coordinates>
+				<coordinates>37.462145,55.824750,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>WIP: Велоальтернатива: объезд мимо ступенек</name>
 			<Point>
 				<coordinates>37.625880,55.603312,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>WIP: Велоальтернатива: по велодорожке</name>
-			<Point>
-				<coordinates>37.588973,55.606445,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>WIP: вело: проверить тропинку</name>
-			<Point>
-				<coordinates>37.579489,55.604814,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -929,12 +658,6 @@
 		<Placemark>
 			<name>WIP: велоальтернатива: мимо экотропы</name>
 			<Point>
-				<coordinates>37.464819,55.645348,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>WIP: велоальтернатива: мимо экотропы</name>
-			<Point>
 				<coordinates>37.460828,55.645176,0</coordinates>
 			</Point>
 		</Placemark>
@@ -951,9 +674,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Велоальтернатива: заезд в Лосиный Остров</name>
+			<name>Велоальтернатива: по ЦОДД-ЗК</name>
 			<Point>
-				<coordinates>37.702892,55.827158,0</coordinates>
+				<coordinates>37.728081,55.832096,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -969,7 +692,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>WIP: Велоальтернатива: через подземный переход</name>
+			<name>Велоальтернатива: через подземный переход</name>
 			<Point>
 				<coordinates>37.569575,55.841385,0</coordinates>
 			</Point>

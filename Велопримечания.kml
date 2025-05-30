@@ -165,12 +165,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: мимо лесенки и экотропы</name>
-			<Point>
-				<coordinates>37.458787,55.650458,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Вело: объезд по велодорожкам</name>
 			<Point>
 				<coordinates>37.457795,55.670179,0</coordinates>
@@ -219,9 +213,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>WIP: Вело: объезд по набережной</name>
+			<name>Вело: объезд по набережной</name>
 			<Point>
-				<coordinates>37.474161,55.745847,0</coordinates>
+				<coordinates>37.475798,55.746382,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -474,6 +468,12 @@
 			<name>Вело: по велодорожке</name>
 			<Point>
 				<coordinates>37.431273,55.803982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вело: по третьему ярусу набережной</name>
+			<Point>
+				<coordinates>37.448042,55.809533,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>
