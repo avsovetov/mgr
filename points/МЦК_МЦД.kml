@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
-		<name>МЦК, МЦД</name>
-
-		<Placemark>
-			<name>МЦК Владыкино (2)</name>
-			<Point>
-				<coordinates>37.589938,55.846342,0</coordinates>
-			</Point>
-		</Placemark>
+		<name>МЦК_МЦД</name>
 		<Placemark>
 			<name>МЦК Ботанический сад</name>
 			<Point>
@@ -16,7 +9,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦК Ростокино (2)</name>
+			<name>МЦД-5 МЦК Ростокино</name>
 			<Point>
 				<coordinates>37.668624,55.838939,0</coordinates>
 			</Point>
@@ -40,9 +33,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦК Измайлово (1)</name>
+			<name>МЦК Измайлово</name>
 			<Point>
-				<coordinates>37.746236,55.788427,0</coordinates>
+				<coordinates>37.744434,55.788427,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -52,9 +45,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦК Балтийская (1)</name>
+			<name>МЦК Балтийская</name>
 			<Point>
-				<coordinates>37.493958,55.825463,0</coordinates>
+				<coordinates>37.494666,55.825120,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -64,33 +57,27 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД3 Петровско-Разумовская</name>
+			<name>МЦД-3 Петровско-Разумовская</name>
 			<Point>
 				<coordinates>37.568953,55.839497,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД3 Вешняки</name>
+			<name>МЦД-3 Вешняки</name>
 			<Point>
 				<coordinates>37.797391,55.722810,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД4 Очаково</name>
+			<name>МЦД-4 Очаково</name>
 			<Point>
 				<coordinates>37.450635,55.682748,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД4 Поклонная</name>
+			<name>МЦД-4 Поклонная</name>
 			<Point>
-				<coordinates>37.511532,55.728410,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>МЦД5 Яуза</name>
-			<Point>
-				<coordinates>37.671242,55.829326,0</coordinates>
+				<coordinates>37.521231,55.732165,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -100,13 +87,13 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД2 Покровское</name>
+			<name>МЦД-2 Покровское</name>
 			<Point>
 				<coordinates>37.632210,55.602797,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД2 Царицыно</name>
+			<name>МЦД-2 Царицыно</name>
 			<Point>
 				<coordinates>37.667851,55.617732,0</coordinates>
 			</Point>
@@ -124,15 +111,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД2 Гражданская (1)</name>
+			<name>МЦД-2 МЦК Стрешнево</name>
 			<Point>
-				<coordinates>37.551379,55.806237,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>МЦД2 Стрешнево (5)</name>
-			<Point>
-				<coordinates>37.487392,55.815657,0</coordinates>
+				<coordinates>37.487564,55.815335,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -147,6 +128,17 @@
 				<coordinates>37.514686,55.744353,0</coordinates>
 			</Point>
 		</Placemark>
-
+		<Placemark>
+			<name>МЦД-1 МЦК Окружная</name>
+			<Point>
+				<coordinates>37.574124,55.848144,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД-4 Минская</name>
+			<Point>
+				<coordinates>37.501061,55.723861,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 	</kml>

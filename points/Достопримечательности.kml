@@ -27,12 +27,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Рисунок на дереве</name>
-			<Point>
-				<coordinates>37.809579,55.762743,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Усадьба Шереметевых</name>
 			<Point>
 				<coordinates>37.807734,55.735126,0</coordinates>
@@ -57,19 +51,19 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая горбатый мост</name>
+			<name>Смотровая горбатый мост</name>
 			<Point>
 				<coordinates>37.785718,55.688349,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>львиная пристань</name>
+			<name>Львиная пристань</name>
 			<Point>
 				<coordinates>37.788744,55.688070,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.788422,55.687083,0</coordinates>
 			</Point>
@@ -207,31 +201,25 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>027</name>
-			<Point>
-				<coordinates>37.491748,55.639125,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Экотропа</name>
 			<Point>
 				<coordinates>37.458982,55.654253,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>029</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.473938,55.680645,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.476084,55.678135,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.478509,55.676783,0</coordinates>
 			</Point>
@@ -249,7 +237,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Раменка</name>
+			<name>Мост через Раменку</name>
 			<Point>
 				<coordinates>37.504001,55.688199,0</coordinates>
 			</Point>
@@ -285,7 +273,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.424650,55.792869,0</coordinates>
 			</Point>
@@ -327,7 +315,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая на водохранилище</name>
+			<name>Смотровая на водохранилище</name>
 			<Point>
 				<coordinates>37.483015,55.829583,0</coordinates>
 			</Point>
@@ -339,9 +327,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
-				<coordinates>37.510695,55.840441,0</coordinates>
+				<coordinates>37.510652,55.840419,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -375,12 +363,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Отряду спец назначения Русь.</name>
-			<Point>
-				<coordinates>37.548590,55.819047,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Реликтовый дуб</name>
 			<Point>
 				<coordinates>37.638476,55.842501,0</coordinates>
@@ -393,19 +375,13 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Акведук. открыт только по выходным дням.</name>
-			<Point>
-				<coordinates>37.656994,55.830184,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>смотровая (лоси, мандаринки)</name>
+			<name>Смотровая (лоси, мандаринки)</name>
 			<Point>
 				<coordinates>37.677100,55.819756,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>набережная пруда</name>
+			<name>Набережная</name>
 			<Point>
 				<coordinates>37.732010,55.807568,0</coordinates>
 			</Point>
@@ -425,7 +401,7 @@
 		<Placemark>
 			<name>Смотровая</name>
 			<Point>
-				<coordinates>37.589660,55.843187,0</coordinates>
+				<coordinates>37.589595,55.843166,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -441,13 +417,13 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая на плотине</name>
 			<Point>
 				<coordinates>37.609486,55.833918,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>фонтан &quot;Золотой колос</name>
+			<name>Фонтан &quot;Золотой колос&quot;</name>
 			<Point>
 				<coordinates>37.616396,55.838381,0</coordinates>
 			</Point>
@@ -477,7 +453,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>кормушечная</name>
+			<name>Кормушечная</name>
 			<Point>
 				<coordinates>37.783422,55.774137,0</coordinates>
 			</Point>
@@ -495,7 +471,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая на плотине</name>
+			<name>Смотровая на плотине</name>
 			<Point>
 				<coordinates>37.729156,55.630756,0</coordinates>
 			</Point>
@@ -507,7 +483,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.537453,55.831450,0</coordinates>
 			</Point>
@@ -543,13 +519,13 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.423405,55.773643,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>смотровая</name>
+			<name>Смотровая</name>
 			<Point>
 				<coordinates>37.626481,55.604492,0</coordinates>
 			</Point>
@@ -567,9 +543,93 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>030</name>
+			<name>Китайский парк Хуамин</name>
 			<Point>
 				<coordinates>37.635665,55.844174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Семья велосипедистов</name>
+			<Point>
+				<coordinates>37.482414,55.819326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рыбак</name>
+			<Point>
+				<coordinates>37.483015,55.820528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Точка выдачи сертификатов и медалей</name>
+			<Point>
+				<coordinates>37.703493,55.830463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Акведук</name>
+			<Point>
+				<coordinates>37.655578,55.828875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Орех Манчжурский</name>
+			<Point>
+				<coordinates>37.610903,55.836428,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Старый Петровско-Разумовский вокзал</name>
+			<Point>
+				<coordinates>37.567193,55.840076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Смотровая</name>
+			<Point>
+				<coordinates>37.509987,55.732959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Музей ГОРА</name>
+			<Point>
+				<coordinates>37.507927,55.728947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Академия ФСБ</name>
+			<Point>
+				<coordinates>37.470054,55.683435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Летняя эстрада</name>
+			<Point>
+				<coordinates>37.494087,55.638331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Родник</name>
+			<Point>
+				<coordinates>37.505352,55.632494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Курган</name>
+			<Point>
+				<coordinates>37.704501,55.602818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мостик</name>
+			<Point>
+				<coordinates>37.800524,55.734697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Смотровая на плотине</name>
+			<Point>
+				<coordinates>37.804386,55.778793,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>

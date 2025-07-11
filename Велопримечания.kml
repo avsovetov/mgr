@@ -3,477 +3,201 @@
 	<Document>
 		<name>Велопримечания</name>
 		<Placemark>
-			<name>Вело: объезд узкой тропинки</name>
+			<name>WIP: возможно переработать по северному берегу</name>
 			<Point>
-				<coordinates>37.695489,55.825957,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: Проход мимо ст. Белокаменная</name>
-			<Point>
-				<coordinates>37.693944,55.831965,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: узкое место</name>
-			<Point>
-				<coordinates>37.732868,55.801624,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: подземный переход с пандусами, станция МЦК</name>
-			<Point>
-				<coordinates>37.701972,55.829074,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: надземный переход с пандусами</name>
-			<Point>
-				<coordinates>37.725937,55.822395,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд узких тропинок</name>
-			<Point>
-				<coordinates>37.821617,55.659832,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд узких тропинок</name>
-			<Point>
-				<coordinates>37.827024,55.670002,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: подземный переход с пандусами</name>
-			<Point>
-				<coordinates>37.789581,55.765940,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд надземного перехода</name>
-			<Point>
-				<coordinates>37.741086,55.800637,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: наздемный переход, неудобный</name>
-			<Point>
-				<coordinates>37.745056,55.792783,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: пропуск акведука и моста</name>
-			<Point>
-				<coordinates>37.655299,55.828639,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: заезд на мост</name>
-			<Point>
-				<coordinates>37.747736,55.641307,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки на мост</name>
-			<Point>
-				<coordinates>37.748360,55.639103,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.724886,55.637988,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по велодорожкам</name>
-			<Point>
-				<coordinates>37.722483,55.629662,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд царицыно</name>
-			<Point>
-				<coordinates>37.686155,55.619706,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: подземный переход с пологими пандусами</name>
-			<Point>
-				<coordinates>37.750206,55.802332,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: ... но проще на лифт.</name>
-			<Point>
-				<coordinates>37.747736,55.641265,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: Объезд неудачного пандуса</name>
-			<Point>
-				<coordinates>37.740998,55.637913,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по велодорожкам</name>
-			<Point>
-				<coordinates>37.727233,55.635173,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: склон межу кладбищем и ГСК</name>
-			<Point>
-				<coordinates>37.696903,55.608108,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.731841,55.802204,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: узкая тропинка</name>
-			<Point>
-				<coordinates>37.809062,55.666391,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: заезд по грунтовке</name>
-			<Point>
-				<coordinates>37.747167,55.644144,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.633093,55.604087,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд тропинок</name>
-			<Point>
-				<coordinates>37.525633,55.623489,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо тропинки</name>
-			<Point>
-				<coordinates>37.469934,55.645824,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по велодорожкам</name>
-			<Point>
-				<coordinates>37.457795,55.670179,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо лесенки</name>
-			<Point>
-				<coordinates>37.457639,55.673537,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.479193,55.676992,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по велодорожке</name>
-			<Point>
-				<coordinates>37.473496,55.680673,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд мостов</name>
-			<Point>
-				<coordinates>37.503215,55.684849,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.533739,55.727911,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.534608,55.728134,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: по велодорожке</name>
-			<Point>
-				<coordinates>37.498178,55.723817,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по набережной</name>
-			<Point>
-				<coordinates>37.475798,55.746382,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд тропинок. проезд вдоль канала</name>
-			<Point>
-				<coordinates>37.443016,55.752317,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: лесенка</name>
-			<Point>
-				<coordinates>37.399204,55.769048,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо тропинок</name>
-			<Point>
-				<coordinates>37.387199,55.776615,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: проезд по северной стороне моста</name>
-			<Point>
-				<coordinates>37.440687,55.804399,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо пешеходных мостов</name>
-			<Point>
-				<coordinates>37.461888,55.825093,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд моста</name>
-			<Point>
-				<coordinates>37.474322,55.815034,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо неудобных мостов</name>
-			<Point>
-				<coordinates>37.509770,55.840675,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд</name>
-			<Point>
-				<coordinates>37.515768,55.845012,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд через путепровод</name>
-			<Point>
-				<coordinates>37.519142,55.841265,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по мосту</name>
-			<Point>
-				<coordinates>37.568908,55.836868,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо лесенки</name>
-			<Point>
-				<coordinates>37.483796,55.830276,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: сложный / грязный подъём</name>
-			<Point>
-				<coordinates>37.469988,55.825750,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо лесенки</name>
-			<Point>
-				<coordinates>37.453487,55.818542,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд лесенки</name>
-			<Point>
-				<coordinates>37.625175,55.603266,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо оврагов и пешеходов</name>
-			<Point>
-				<coordinates>37.588037,55.606524,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>WIP: Вело: мимо лесенки</name>
-			<Point>
-				<coordinates>37.541828,55.627957,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо неудобной тропинки</name>
-			<Point>
-				<coordinates>37.538229,55.626524,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: более удобный переход</name>
-			<Point>
-				<coordinates>37.469800,55.643227,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо тропинки</name>
-			<Point>
-				<coordinates>37.467960,55.646018,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: тропинка рядом с лесенкой</name>
-			<Point>
-				<coordinates>37.463293,55.658176,0</coordinates>
+				<coordinates>37.538226,55.626529,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>WIP: Вело: мимо лесенки по велодорожке</name>
 			<Point>
-				<coordinates>37.463052,55.658633,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо лесенок</name>
-			<Point>
-				<coordinates>37.459388,55.678217,0</coordinates>
+				<coordinates>37.463059,55.658630,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>TODO: Вело: по велодорожкам</name>
 			<Point>
-				<coordinates>37.485432,55.679390,0</coordinates>
+				<coordinates>37.485440,55.679379,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>TODO: Вело: уточнить</name>
+			<name>Велодорожка</name>
 			<Point>
-				<coordinates>37.541034,55.711525,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо ступенек</name>
-			<Point>
-				<coordinates>37.496365,55.725693,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: по велодорожке</name>
-			<Point>
-				<coordinates>37.731793,55.807145,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: сокращение по Саду Будущего</name>
-			<Point>
-				<coordinates>37.638516,55.842362,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: велодорожка по парку Спорта</name>
-			<Point>
-				<coordinates>37.650983,55.836837,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: сокращение по парку Акведук</name>
-			<Point>
-				<coordinates>37.656101,55.831132,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: выпрямление через Яузский лесопарк, объезд речки</name>
-			<Point>
-				<coordinates>37.684661,55.822628,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: объезд по дороге</name>
-			<Point>
-				<coordinates>37.610916,55.835699,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>Вело: мимо пешеходных мостков</name>
-			<Point>
-				<coordinates>37.465428,55.645412,0</coordinates>
+				<coordinates>37.650986,55.836836,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
 			<name>Вело: по велодорожкам и чтобы облегчить подъём по главной аллее</name>
 			<Point>
-				<coordinates>37.488592,55.747393,0</coordinates>
+				<coordinates>37.488594,55.747400,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: ?неудобный проход?</name>
+			<name>Велодорожка-велополоса</name>
 			<Point>
-				<coordinates>37.461319,55.761219,0</coordinates>
+				<coordinates>37.404673,55.771712,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: по велодорожке</name>
+			<name>Велодорожка</name>
 			<Point>
-				<coordinates>37.404671,55.771715,0</coordinates>
+				<coordinates>37.424328,55.773171,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: по велодорожкам</name>
+			<name>Вело: объезжаем пляж</name>
 			<Point>
-				<coordinates>37.424326,55.773161,0</coordinates>
+				<coordinates>37.515738,55.845033,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: мимо узких помостков</name>
+			<name>На 07.2025 ремонт по основному треку</name>
 			<Point>
-				<coordinates>37.484922,55.820639,0</coordinates>
+				<coordinates>37.655728,55.828982,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: мимо оврага</name>
+			<name>Очень неудобно проложенный маршрут ЦОДД</name>
 			<Point>
-				<coordinates>37.535262,55.826910,0</coordinates>
+				<coordinates>37.655492,55.832201,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: овраг</name>
+			<name>Основной веломаршрут по навигации ЦОДД-ЗК</name>
 			<Point>
-				<coordinates>37.538883,55.824662,0</coordinates>
+				<coordinates>37.527153,55.835527,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: по дороге</name>
+			<name>Пешеходные мостки</name>
 			<Point>
-				<coordinates>37.397279,55.783352,0</coordinates>
+				<coordinates>37.416518,55.793363,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: по велодорожкам, мимо пешеходных мостов</name>
+			<name>WIP: уточнить что с ремонтом</name>
 			<Point>
-				<coordinates>37.409225,55.792313,0</coordinates>
+				<coordinates>37.541616,55.710751,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: по велодорожке</name>
+			<name>Велодорожка</name>
 			<Point>
-				<coordinates>37.431273,55.803982,0</coordinates>
+				<coordinates>37.538226,55.727445,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Вело: по третьему ярусу набережной</name>
+			<name>Велодорожка</name>
 			<Point>
-				<coordinates>37.448042,55.809533,0</coordinates>
+				<coordinates>37.544148,55.712832,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>На 07.2025 ремонт</name>
+			<Point>
+				<coordinates>37.459218,55.662750,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WIP: мост с лесенками???</name>
+			<Point>
+				<coordinates>37.495696,55.637451,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WIP: Найти заезд</name>
+			<Point>
+				<coordinates>37.581441,55.604213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Крутой песчаный спуск</name>
+			<Point>
+				<coordinates>37.696540,55.606981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Велополоса</name>
+			<Point>
+				<coordinates>37.694609,55.614470,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Здесь расходятся этот маршрут и навигация ЦОДД-ЗКМ</name>
+			<Point>
+				<coordinates>37.693772,55.621680,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Здесь расходятся этот маршрут и навигация ЦОДД-ЗКМ</name>
+			<Point>
+				<coordinates>37.500954,55.720449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Здесь расходятся этот маршрут и навигация ЦОДД-ЗКМ</name>
+			<Point>
+				<coordinates>37.438898,55.751563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Велодорожка</name>
+			<Point>
+				<coordinates>37.767393,55.644339,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Здесь расходятся этот маршрут и навигация ЦОДД-ЗКМ</name>
+			<Point>
+				<coordinates>37.768638,55.648266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Лесенка без пандуса</name>
+			<Point>
+				<coordinates>37.747416,55.641700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>WIP: на 07.2025 стройка?</name>
+			<Point>
+				<coordinates>37.786255,55.664702,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>По северной стороне</name>
+			<Point>
+				<coordinates>37.804794,55.673371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Здесь расходятся этот маршрут и навигация ЦОДД-ЗКМ</name>
+			<Point>
+				<coordinates>37.785590,55.690216,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Велодорожка</name>
+			<Point>
+				<coordinates>37.795846,55.712725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Велодорожка (навигация по восточной стороне)</name>
+			<Point>
+				<coordinates>37.792370,55.699700,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Здесь расходятся этот маршрут и навигация ЦОДД-ЗКМ</name>
+			<Point>
+				<coordinates>37.798550,55.733860,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Удобный питательный пункт</name>
+			<Point>
+				<coordinates>37.747524,55.788363,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>
