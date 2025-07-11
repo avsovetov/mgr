@@ -1,0 +1,8 @@
+#!/bin/sh -x
+set -eu
+
+ds="$(date +%d.%m.%Y)"
+# rm named/ЗКМ_*.kml
+newname="ЗКМ_${ds}.kml"
+printf "%s\n" "$newname" > named/latest
+cp "./MGR.kml" "./named/${newname}"

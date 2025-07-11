@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Переходы</name>
+		<Placemark>
+			<name>регулируемый переход Ж/Д</name>
+			<Point>
+				<coordinates>37.578566,55.839711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.572858,55.834754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.570777,55.837651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.800803,55.767978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.779817,55.787741,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.745957,55.792719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.740486,55.800336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.729199,55.809542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.725143,55.821880,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.574639,55.835870,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.754841,55.791453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.777543,55.792097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.769582,55.792354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.779496,55.788020,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.731323,55.802010,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.725036,55.811344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.702463,55.829347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.694180,55.832201,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.654397,55.828703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.655620,55.828918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход трамвайных путей</name>
+			<Point>
+				<coordinates>37.653925,55.833853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.649999,55.838016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.643497,55.840205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.636201,55.842629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.628562,55.841514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.581913,55.840763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.586741,55.842587,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.744026,55.793041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.821488,55.762056,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.824793,55.758043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.819042,55.744525,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.821896,55.745619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.821746,55.750984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.814729,55.742658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мостик</name>
+			<Point>
+				<coordinates>37.800438,55.734697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.800932,55.725299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.799537,55.724119,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.797499,55.723411,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.792671,55.717360,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост к м Котельники, 2 км</name>
+			<Point>
+				<coordinates>37.837775,55.668028,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.796233,55.721351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.794602,55.717917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.796190,55.716802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.791040,55.714270,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.782221,55.709012,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.780332,55.703605,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.777736,55.698541,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мостик</name>
+			<Point>
+				<coordinates>37.787156,55.690473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мостик</name>
+			<Point>
+				<coordinates>37.785611,55.688349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.810094,55.672792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.798421,55.674509,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.782242,55.663393,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Подземный переход</name>
+			<Point>
+				<coordinates>37.780118,55.660432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.747888,55.640112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.550735,55.832630,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.531166,55.829926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.526703,55.831386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.522561,55.832737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.523205,55.833403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.520738,55.834390,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.521403,55.840527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.518763,55.841299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мостик</name>
+			<Point>
+				<coordinates>37.510631,55.840398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.504601,55.837265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.487006,55.832265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.461536,55.825613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.447159,55.805315,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.727160,55.635284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.692056,55.627581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.686069,55.619856,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.672143,55.596381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.662744,55.596038,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.657101,55.594514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.655513,55.593055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.639398,55.593077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.637060,55.602046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.634163,55.603848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.622619,55.603140,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.607577,55.606831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.608049,55.606938,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.606826,55.606917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.601354,55.606616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.590239,55.606402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.540521,55.628160,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.505503,55.619706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.471835,55.644897,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.460098,55.666526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>нерегулируемый переход</name>
+			<Point>
+				<coordinates>37.457931,55.673307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.468574,55.680431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.482307,55.679658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.491362,55.682233,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.508678,55.694400,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.521725,55.701395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.535972,55.706523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.540951,55.709613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.535951,55.726715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.535221,55.729097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.516146,55.723561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.505760,55.734290,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>мост</name>
+			<Point>
+				<coordinates>37.502198,55.735641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.494323,55.734976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>тоннель</name>
+			<Point>
+				<coordinates>37.488808,55.741156,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.489731,55.740105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.485440,55.744611,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>регулируемый переход</name>
+			<Point>
+				<coordinates>37.404759,55.771562,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>

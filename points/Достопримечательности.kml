@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Достопримечательности</name>
+		<Placemark>
+			<name>Измайловский Кремль</name>
+			<Point>
+				<coordinates>37.749884,55.793384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ворота</name>
+			<Point>
+				<coordinates>37.763381,55.791775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Богадельня</name>
+			<Point>
+				<coordinates>37.765741,55.791238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мостовая башня</name>
+			<Point>
+				<coordinates>37.765591,55.790809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рисунок на дереве</name>
+			<Point>
+				<coordinates>37.809579,55.762743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Усадьба Шереметевых</name>
+			<Point>
+				<coordinates>37.807734,55.735126,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Скамейка Любви и Верности.</name>
+			<Point>
+				<coordinates>37.788529,55.690902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Клодтовы кони</name>
+			<Point>
+				<coordinates>37.784967,55.689465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Музей усадеб</name>
+			<Point>
+				<coordinates>37.784989,55.689915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая горбатый мост</name>
+			<Point>
+				<coordinates>37.785718,55.688349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>львиная пристань</name>
+			<Point>
+				<coordinates>37.788744,55.688070,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.788422,55.687083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Большой мост</name>
+			<Point>
+				<coordinates>37.680790,55.618204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Фигурный мост</name>
+			<Point>
+				<coordinates>37.680833,55.616551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Оперный дом</name>
+			<Point>
+				<coordinates>37.680726,55.614620,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Фигурные ворота</name>
+			<Point>
+				<coordinates>37.680898,55.614212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Миловида</name>
+			<Point>
+				<coordinates>37.681434,55.612474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Грот</name>
+			<Point>
+				<coordinates>37.685275,55.609985,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Руины на острове</name>
+			<Point>
+				<coordinates>37.684975,55.608891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Фигуры</name>
+			<Point>
+				<coordinates>37.679138,55.593999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Сакуровая аллея.</name>
+			<Point>
+				<coordinates>37.681777,55.593441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Еловая аллея</name>
+			<Point>
+				<coordinates>37.683194,55.594343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рябиновая аллея</name>
+			<Point>
+				<coordinates>37.682056,55.595051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кленовая аллея.</name>
+			<Point>
+				<coordinates>37.679696,55.595115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туевая площадь.</name>
+			<Point>
+				<coordinates>37.679696,55.596939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Берёзовая аллея</name>
+			<Point>
+				<coordinates>37.679417,55.596939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Лиственичная аллея</name>
+			<Point>
+				<coordinates>37.677207,55.596982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туевая аллея</name>
+			<Point>
+				<coordinates>37.675061,55.598570,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кизильниковая аллея</name>
+			<Point>
+				<coordinates>37.677121,55.598570,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Берёзовая аллея</name>
+			<Point>
+				<coordinates>37.675061,55.596875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Романский дворик</name>
+			<Point>
+				<coordinates>37.642145,55.591017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Беседка</name>
+			<Point>
+				<coordinates>37.624786,55.603248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Берёзовая роща</name>
+			<Point>
+				<coordinates>37.532582,55.624405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ДОТ</name>
+			<Point>
+				<coordinates>37.495847,55.636765,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>027</name>
+			<Point>
+				<coordinates>37.491748,55.639125,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Экотропа</name>
+			<Point>
+				<coordinates>37.458982,55.654253,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>029</name>
+			<Point>
+				<coordinates>37.473938,55.680645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.476084,55.678135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.478509,55.676783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Зелёный лабиринт</name>
+			<Point>
+				<coordinates>37.502220,55.681761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ладошки</name>
+			<Point>
+				<coordinates>37.503872,55.681311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Раменка</name>
+			<Point>
+				<coordinates>37.504001,55.688199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Смотровая площадка</name>
+			<Point>
+				<coordinates>37.542281,55.709399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Солнечные часы</name>
+			<Point>
+				<coordinates>37.507541,55.720170,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мечеть</name>
+			<Point>
+				<coordinates>37.497284,55.725277,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дерево новобрачных</name>
+			<Point>
+				<coordinates>37.475848,55.746284,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Вид на Живописный мост</name>
+			<Point>
+				<coordinates>37.437911,55.773943,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.424650,55.792869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Памп трек</name>
+			<Point>
+				<coordinates>37.443662,55.804928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Шлюз</name>
+			<Point>
+				<coordinates>37.448168,55.812911,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Пулемётное гнездо</name>
+			<Point>
+				<coordinates>37.450356,55.813576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Канал над тоннелем.</name>
+			<Point>
+				<coordinates>37.453511,55.819090,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бобровая плотина</name>
+			<Point>
+				<coordinates>37.462244,55.824862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Родники</name>
+			<Point>
+				<coordinates>37.472565,55.826751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая на водохранилище</name>
+			<Point>
+				<coordinates>37.483015,55.829583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мини зоопарк</name>
+			<Point>
+				<coordinates>37.498979,55.835827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.510695,55.840441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Депо</name>
+			<Point>
+				<coordinates>37.519815,55.840655,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ротонда</name>
+			<Point>
+				<coordinates>37.520544,55.842265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Усадьба Михалково</name>
+			<Point>
+				<coordinates>37.519214,55.841685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Канал подпитки пруда водой Химкинского водохранилища.</name>
+			<Point>
+				<coordinates>37.532153,55.830935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кладбище ученых</name>
+			<Point>
+				<coordinates>37.543611,55.825184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Отряду спец назначения Русь.</name>
+			<Point>
+				<coordinates>37.548590,55.819047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Реликтовый дуб</name>
+			<Point>
+				<coordinates>37.638476,55.842501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Однопилонный мост</name>
+			<Point>
+				<coordinates>37.650492,55.836364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Акведук. открыт только по выходным дням.</name>
+			<Point>
+				<coordinates>37.656994,55.830184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая (лоси, мандаринки)</name>
+			<Point>
+				<coordinates>37.677100,55.819756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>набережная пруда</name>
+			<Point>
+				<coordinates>37.732010,55.807568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Экотропа</name>
+			<Point>
+				<coordinates>37.611632,55.833574,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Зеленый лабиринт</name>
+			<Point>
+				<coordinates>37.614336,55.835763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Смотровая</name>
+			<Point>
+				<coordinates>37.589660,55.843187,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Новая фондовая оранжерея</name>
+			<Point>
+				<coordinates>37.595882,55.835420,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Розарий</name>
+			<Point>
+				<coordinates>37.602577,55.831944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.609486,55.833918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>фонтан &quot;Золотой колос</name>
+			<Point>
+				<coordinates>37.616396,55.838381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Грузинский сквер</name>
+			<Point>
+				<coordinates>37.614400,55.837501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Экспозиция экосистем</name>
+			<Point>
+				<coordinates>37.619443,55.839282,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>граффити тигра</name>
+			<Point>
+				<coordinates>37.742524,55.796624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Измайловский Вернисаж</name>
+			<Point>
+				<coordinates>37.752287,55.793148,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>кормушечная</name>
+			<Point>
+				<coordinates>37.783422,55.774137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Усадьба Кузьминки</name>
+			<Point>
+				<coordinates>37.789430,55.690344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Музей наивного искусства</name>
+			<Point>
+				<coordinates>37.813592,55.749975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая на плотине</name>
+			<Point>
+				<coordinates>37.729156,55.630756,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Усадьба Покровское-Стрешнево</name>
+			<Point>
+				<coordinates>37.472007,55.815314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.537453,55.831450,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бобровая  хатка</name>
+			<Point>
+				<coordinates>37.463982,55.825163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Усадьба Троице-Лыково</name>
+			<Point>
+				<coordinates>37.404158,55.790487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ГЗ МГУ</name>
+			<Point>
+				<coordinates>37.530930,55.702983,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Фундаментальная библиотека МГУ</name>
+			<Point>
+				<coordinates>37.523506,55.698927,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>детский парк Сказка</name>
+			<Point>
+				<coordinates>37.435057,55.771669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.423405,55.773643,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая</name>
+			<Point>
+				<coordinates>37.626481,55.604492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Башня-руина</name>
+			<Point>
+				<coordinates>37.681756,55.610651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Большой дворец Царицыно</name>
+			<Point>
+				<coordinates>37.681949,55.615500,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>030</name>
+			<Point>
+				<coordinates>37.635665,55.844174,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>
