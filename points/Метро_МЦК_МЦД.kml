@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Метро, МЦК, МЦД</name>
+
+		<Placemark>
+			<name>Владыкино (2)</name>
+			<Point>
+				<coordinates>37.589595,55.845998,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ботанический сад (4)</name>
+			<Point>
+				<coordinates>37.637596,55.843745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ВДНХ</name>
+			<Point>
+				<coordinates>37.642188,55.822266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Бульвар Рокоссовского (1)</name>
+			<Point>
+				<coordinates>37.733641,55.814799,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Черкизовская</name>
+			<Point>
+				<coordinates>37.744927,55.802740,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Партизанская</name>
+			<Point>
+				<coordinates>37.749798,55.788470,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Измайловская (4-7)</name>
+			<Point>
+				<coordinates>37.780032,55.787719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Рязанский проспект</name>
+			<Point>
+				<coordinates>37.793808,55.717638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Волжская (2)</name>
+			<Point>
+				<coordinates>37.756643,55.690516,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Котельники (3-5)</name>
+			<Point>
+				<coordinates>37.856164,55.675109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Братиславская</name>
+			<Point>
+				<coordinates>37.752416,55.660046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Марьино (2,4)</name>
+			<Point>
+				<coordinates>37.744584,55.648566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Борисово</name>
+			<Point>
+				<coordinates>37.743425,55.632301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Орехово</name>
+			<Point>
+				<coordinates>37.693343,55.613719,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Пражская (3-4, 7-8)</name>
+			<Point>
+				<coordinates>37.603435,55.610479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Теплый Стан (6-9)</name>
+			<Point>
+				<coordinates>37.505803,55.619770,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Озерная (2)</name>
+			<Point>
+				<coordinates>37.451408,55.670689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мичуринский проспект (4-5)</name>
+			<Point>
+				<coordinates>37.486877,55.687684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Раменки (2)</name>
+			<Point>
+				<coordinates>37.496877,55.696245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ломоносовский проспект (5-6)</name>
+			<Point>
+				<coordinates>37.518141,55.707639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Парк Победы (5)</name>
+			<Point>
+				<coordinates>37.517176,55.735813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Филёвский парк</name>
+			<Point>
+				<coordinates>37.483659,55.739568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Крылатское</name>
+			<Point>
+				<coordinates>37.408621,55.757979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Строгино (7)</name>
+			<Point>
+				<coordinates>37.405445,55.802868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Войковская (4-5)</name>
+			<Point>
+				<coordinates>37.498143,55.817803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Водный стадион (2)</name>
+			<Point>
+				<coordinates>37.487242,55.839046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Петровско-Разумовская (1)</name>
+			<Point>
+				<coordinates>37.575261,55.836836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Окружная</name>
+			<Point>
+				<coordinates>37.576098,55.844260,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Петровско-Разумовская (5)</name>
+			<Point>
+				<coordinates>37.572343,55.833746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Царицыно (3)</name>
+			<Point>
+				<coordinates>37.670598,55.619684,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Новогиреево (2-3)</name>
+			<Point>
+				<coordinates>37.819064,55.751434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кунцевская (1)</name>
+			<Point>
+				<coordinates>37.446537,55.731071,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Проспект Вернадского (7-8)</name>
+			<Point>
+				<coordinates>37.505932,55.677770,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Кузьминки (2-3)</name>
+			<Point>
+				<coordinates>37.767737,55.705343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Новоясеневская-Битцевский парк</name>
+			<Point>
+				<coordinates>37.555563,55.600995,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Коньково (2)</name>
+			<Point>
+				<coordinates>37.518957,55.631786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Тропарево</name>
+			<Point>
+				<coordinates>37.472136,55.644704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Воробьёвы горы (1-2)</name>
+			<Point>
+				<coordinates>37.557151,55.708755,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Минская (1)</name>
+			<Point>
+				<coordinates>37.498185,55.723582,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Щукинская (2)</name>
+			<Point>
+				<coordinates>37.463016,55.809499,0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>МЦК Владыкино (2)</name>
+			<Point>
+				<coordinates>37.589938,55.846342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Ботанический сад</name>
+			<Point>
+				<coordinates>37.639699,55.845440,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Ростокино (2)</name>
+			<Point>
+				<coordinates>37.668624,55.838939,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Белокаменная</name>
+			<Point>
+				<coordinates>37.702613,55.829304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Бульвар Рокоссовского</name>
+			<Point>
+				<coordinates>37.738404,55.816537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Локомотив</name>
+			<Point>
+				<coordinates>37.745979,55.802868,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Измайлово (1)</name>
+			<Point>
+				<coordinates>37.746236,55.788427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД4 Новогиреево</name>
+			<Point>
+				<coordinates>37.818291,55.744396,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Балтийская (1)</name>
+			<Point>
+				<coordinates>37.493958,55.825463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦК Коптево</name>
+			<Point>
+				<coordinates>37.521875,55.840333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД3 Петровско-Разумовская</name>
+			<Point>
+				<coordinates>37.568953,55.839497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД3 Вешняки</name>
+			<Point>
+				<coordinates>37.797391,55.722810,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД4 Очаково</name>
+			<Point>
+				<coordinates>37.450635,55.682748,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД4 Поклонная</name>
+			<Point>
+				<coordinates>37.511532,55.728410,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД5 Яуза</name>
+			<Point>
+				<coordinates>37.671242,55.829326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД5 Бирюлёво-Товарная</name>
+			<Point>
+				<coordinates>37.653968,55.592841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Покровское</name>
+			<Point>
+				<coordinates>37.632210,55.602797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Царицыно</name>
+			<Point>
+				<coordinates>37.667851,55.617732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Москворечье (2)</name>
+			<Point>
+				<coordinates>37.689352,55.639790,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Люблино (3)</name>
+			<Point>
+				<coordinates>37.734799,55.684937,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Гражданская (1)</name>
+			<Point>
+				<coordinates>37.551379,55.806237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Стрешнево (5)</name>
+			<Point>
+				<coordinates>37.487392,55.815657,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД2 Щукинская</name>
+			<Point>
+				<coordinates>37.460441,55.811215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД1 Фили</name>
+			<Point>
+				<coordinates>37.514686,55.744353,0</coordinates>
+			</Point>
+		</Placemark>
+
+	</Document>
+	</kml>
