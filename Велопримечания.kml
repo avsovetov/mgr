@@ -15,12 +15,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>TODO: Вело: по велодорожкам</name>
-			<Point>
-				<coordinates>37.485440,55.679379,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Велодорожка</name>
 			<Point>
 				<coordinates>37.650986,55.836836,0</coordinates>
@@ -99,7 +93,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>WIP: мост с лесенками???</name>
+			<name>Велонеудобство: грунтовый спуск рядом с мостом</name>
 			<Point>
 				<coordinates>37.495696,55.637451,0</coordinates>
 			</Point>
