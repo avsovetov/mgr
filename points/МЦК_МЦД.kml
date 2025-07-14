@@ -99,13 +99,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>МЦД2 Москворечье (2)</name>
-			<Point>
-				<coordinates>37.689352,55.639790,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>МЦД2 Люблино (3)</name>
+			<name>МЦД-2 Люблино</name>
 			<Point>
 				<coordinates>37.734799,55.684937,0</coordinates>
 			</Point>
@@ -138,6 +132,12 @@
 			<name>МЦД-4 Минская</name>
 			<Point>
 				<coordinates>37.501061,55.723861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>МЦД-2 Курьяново</name>
+			<Point>
+				<coordinates>37.701819,55.649725,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Веломастерские</name>
+		<Placemark>
+			<name>Веломастерская Про Активность</name>
+			<Point>
+				<coordinates>37.740486,55.782526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Bike Technology</name>
+			<Point>
+				<coordinates>37.624249,55.836986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская MJ Sport</name>
+			<Point>
+				<coordinates>37.582536,55.842458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Велоточка</name>
+			<Point>
+				<coordinates>37.503743,55.847887,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерские</name>
+			<Point>
+				<coordinates>37.430057,55.766304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская скибордсервис</name>
+			<Point>
+				<coordinates>37.546229,55.707875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Велоград</name>
+			<Point>
+				<coordinates>37.455592,55.682469,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Старбайк</name>
+			<Point>
+				<coordinates>37.472372,55.642065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская велосервис Коньково</name>
+			<Point>
+				<coordinates>37.514815,55.630048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Велоград</name>
+			<Point>
+				<coordinates>37.598715,55.600458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Велосозвездие</name>
+			<Point>
+				<coordinates>37.721474,55.601552,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Velopic</name>
+			<Point>
+				<coordinates>37.760827,55.647365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Веломастерская Велоспортинг</name>
+			<Point>
+				<coordinates>37.784817,55.717832,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>

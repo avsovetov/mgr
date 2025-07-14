@@ -441,9 +441,9 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>граффити тигра</name>
+			<name>Граффити тигра</name>
 			<Point>
-				<coordinates>37.742524,55.796624,0</coordinates>
+				<coordinates>37.735507,55.795079,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -630,6 +630,18 @@
 			<name>Смотровая на плотине</name>
 			<Point>
 				<coordinates>37.804386,55.778793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Музей необычных велосипедов</name>
+			<Point>
+				<coordinates>37.749927,55.794350,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Мост</name>
+			<Point>
+				<coordinates>37.763660,55.790251,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>

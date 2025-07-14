@@ -506,5 +506,29 @@
 				<coordinates>37.733855,55.799221,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>В область (у строительства нового съезда)</name>
+			<Point>
+				<coordinates>37.842345,55.754267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>В Косино через развязку</name>
+			<Point>
+				<coordinates>37.840650,55.732466,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>В область к Косинским озёрам</name>
+			<Point>
+				<coordinates>37.839212,55.721522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>В Знаменское-Садки</name>
+			<Point>
+				<coordinates>37.544856,55.587734,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 	</kml>
