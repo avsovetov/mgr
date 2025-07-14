@@ -80,5 +80,11 @@
 				<coordinates>37.784817,55.717832,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>Веломастерская Байкчек</name>
+			<Point>
+				<coordinates>37.479215,55.742498,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 	</kml>
