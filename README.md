@@ -1,12 +1,12 @@
 # Зелёное Кольцо Москвы | Moscow Green Ring #
 
-**[На карте](totrack/)**
+**[Пеший ЗКМ на карте](totrack/)**
 
-**[На карте, веломаршрут](tocyclingtrack/)**
+[Пеший ЗКМ на карте (только трек)](totrackonly/)
 
-[На карте, веломаршрут с дополнениями](tocycling/)
+**[Вело-ЗКМ на карте](tocyclingtrack/)**
 
-[На карте, только трек](totrackonly/)
+[Вело-ЗКМ на карте, с дополнениями](tocycling/)
 
 [Facebook](https://www.facebook.com/groups/415558512150007)
 
