@@ -8,8 +8,6 @@
 
 [Вело-ЗКМ на карте, с дополнениями](tocycling/)
 
-[Facebook](https://www.facebook.com/groups/415558512150007)
-
 [ВКонтакте](https://vk.com/club179530397)
 
 [Ходоки и ездоки](zkm-champs.md)
