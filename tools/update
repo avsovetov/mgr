@@ -18,19 +18,20 @@ ROOT_UQ="https%3A%2F%2Fraw.githubusercontent.com%2Favsovetov%2Fmgr%2Fmaster%2F"
 ROOT_CYCLING_UQ="https%3A%2F%2Fraw.githubusercontent.com%2Favsovetov%2Fmgr%2Fcycling%2F"
 base_url="https://nakarte.me/#m=11/55.71686/37.66525&l=O&nktu="
 trackonly_url="${base_url}${ROOT_UQ}named%2F${newname}"
-# Туалеты, Памятники, Храмы, Достопримечательности, Переходы
-extra_tracks_url_piece="\
-/${ROOT_UQ}points%2F%D0%A2%D1%83%D0%B0%D0%BB%D0%B5%D1%82%D1%8B.kml\
-/${ROOT_UQ}points%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B8.kml\
-/${ROOT_UQ}points%2F%D0%A5%D1%80%D0%B0%D0%BC%D1%8B.kml\
-/${ROOT_UQ}points%2F%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.kml\
-/${ROOT_UQ}points%2F%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D1%8B.kml\
-"
-main_url="\
-${trackonly_url}\
-${extra_tracks_url_piece}\
-/${ROOT_UQ}points%2F%D0%9C%D0%B5%D1%82%D1%80%D0%BE_%D0%9C%D0%A6%D0%9A_%D0%9C%D0%A6%D0%94.kml\
-"
+
+main_url="${trackonly_url}"
+# Туалеты
+main_url="${main_url}/${ROOT_UQ}points%2F%D0%A2%D1%83%D0%B0%D0%BB%D0%B5%D1%82%D1%8B.kml"
+# Памятники
+main_url="${main_url}/${ROOT_UQ}points%2F%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B8.kml"
+# Храмы
+main_url="${main_url}/${ROOT_UQ}points%2F%D0%A5%D1%80%D0%B0%D0%BC%D1%8B.kml"
+# Достопримечательности
+main_url="${main_url}/${ROOT_UQ}points%2F%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8.kml"
+# Переходы
+main_url="${main_url}/${ROOT_UQ}points%2F%D0%9F%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D1%8B.kml"
+# Метро_МЦК_МЦД
+main_url="${main_url}/${ROOT_UQ}points%2F%D0%9C%D0%B5%D1%82%D1%80%D0%BE_%D0%9C%D0%A6%D0%9A_%D0%9C%D0%A6%D0%94.kml"
 
 make_redirector "$trackonly_url" "Зелёное Кольцо Моксвы (только трек) НаКарте" > ./totrackonly/index.html
 make_redirector "$main_url" "Зелёное Кольцо Моксвы НаКарте" > ./totrack/index.html
