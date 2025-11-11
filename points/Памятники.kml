@@ -201,12 +201,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>фонтан</name>
-			<Point>
-				<coordinates>37.640343,55.842758,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Памятный камень</name>
 			<Point>
 				<coordinates>37.590861,55.843230,0</coordinates>
@@ -281,7 +275,7 @@
 		<Placemark>
 			<name>Художник (Асерьянц)</name>
 			<Point>
-				<coordinates>37.483358,55.818726,0</coordinates>
+				<coordinates>37.483294,55.819026,0</coordinates>
 			</Point>
 		</Placemark>
 		<Placemark>
@@ -294,6 +288,120 @@
 			<name>Ломоносов</name>
 			<Point>
 				<coordinates>37.527668,55.701095,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Памятники Альпинист и Альпинистка (Евгений Абалаков)</name>
+			<Point>
+				<coordinates>37.612877,55.834561,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Минину и Пожарскому.</name>
+			<Point>
+				<coordinates>37.656157,55.831064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>001</name>
+			<Point>
+				<coordinates>37.732568,55.807439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>002</name>
+			<Point>
+				<coordinates>37.495804,55.636829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дот ВОВ</name>
+			<Point>
+				<coordinates>37.496233,55.636314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>003</name>
+			<Point>
+				<coordinates>37.481384,55.679358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>004</name>
+			<Point>
+				<coordinates>37.535436,55.705901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>005</name>
+			<Point>
+				<coordinates>37.535093,55.705708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>006</name>
+			<Point>
+				<coordinates>37.534749,55.705536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>007</name>
+			<Point>
+				<coordinates>37.534470,55.705365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>008</name>
+			<Point>
+				<coordinates>37.534149,55.705193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>009</name>
+			<Point>
+				<coordinates>37.533848,55.705043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>010</name>
+			<Point>
+				<coordinates>37.536015,55.705536,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>011</name>
+			<Point>
+				<coordinates>37.535736,55.705365,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>012</name>
+			<Point>
+				<coordinates>37.535415,55.705193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>013</name>
+			<Point>
+				<coordinates>37.535093,55.705000,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>014</name>
+			<Point>
+				<coordinates>37.534835,55.704871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>015</name>
+			<Point>
+				<coordinates>37.534513,55.704721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Дот</name>
+			<Point>
+				<coordinates>37.626116,55.603784,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>

@@ -398,5 +398,71 @@
 				<coordinates>37.503035,55.680474,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>Туалет внутри музея, вход свободный</name>
+			<Point>
+				<coordinates>37.504945,55.730899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>001</name>
+			<Point>
+				<coordinates>37.505438,55.731092,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет в ТЦ</name>
+			<Point>
+				<coordinates>37.577386,55.838274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет</name>
+			<Point>
+				<coordinates>37.616160,55.836900,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет</name>
+			<Point>
+				<coordinates>37.405724,55.790659,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>002</name>
+			<Point>
+				<coordinates>37.616739,55.842458,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет</name>
+			<Point>
+				<coordinates>37.637596,55.843123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет</name>
+			<Point>
+				<coordinates>37.637510,55.843402,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>туалет</name>
+			<Point>
+				<coordinates>37.729606,55.809370,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет</name>
+			<Point>
+				<coordinates>37.752459,55.643481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Туалет</name>
+			<Point>
+				<coordinates>37.784023,55.774330,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 	</kml>

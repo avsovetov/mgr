@@ -207,7 +207,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>027</name>
+			<name>Мост арочный</name>
 			<Point>
 				<coordinates>37.491748,55.639125,0</coordinates>
 			</Point>
@@ -357,7 +357,7 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>Усадьба Михалково</name>
+			<name>Усадьба Михалково (разрешён вход по выходным)</name>
 			<Point>
 				<coordinates>37.519214,55.841685,0</coordinates>
 			</Point>
@@ -465,12 +465,6 @@
 			</Point>
 		</Placemark>
 		<Placemark>
-			<name>граффити тигра</name>
-			<Point>
-				<coordinates>37.742524,55.796624,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
 			<name>Измайловский Вернисаж</name>
 			<Point>
 				<coordinates>37.752287,55.793148,0</coordinates>
@@ -570,6 +564,120 @@
 			<name>030</name>
 			<Point>
 				<coordinates>37.635665,55.844174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>031</name>
+			<Point>
+				<coordinates>37.678666,55.593978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>032</name>
+			<Point>
+				<coordinates>37.678988,55.593892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>033</name>
+			<Point>
+				<coordinates>37.679310,55.593956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>034</name>
+			<Point>
+				<coordinates>37.680189,55.593763,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Каскады</name>
+			<Point>
+				<coordinates>37.513249,55.846706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Беседка</name>
+			<Point>
+				<coordinates>37.516854,55.843209,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Фонтан</name>
+			<Point>
+				<coordinates>37.640278,55.842780,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Болотце</name>
+			<Point>
+				<coordinates>37.695875,55.826858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>смотровая площадка</name>
+			<Point>
+				<coordinates>37.755334,55.791946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Владимирский тракт</name>
+			<Point>
+				<coordinates>37.801854,55.766326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Армейским дресировщикам.</name>
+			<Point>
+				<coordinates>37.821467,55.765511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Сквер памяти детей</name>
+			<Point>
+				<coordinates>37.802048,55.733388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Фонтан с подсветкой.</name>
+			<Point>
+				<coordinates>37.676778,55.617474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Орех огромный</name>
+			<Point>
+				<coordinates>37.610881,55.836471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Домик Вильямса</name>
+			<Point>
+				<coordinates>37.549169,55.834132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Усадьба Петровско-Разумовская (открыта по выходным)</name>
+			<Point>
+				<coordinates>37.549212,55.832973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Памятник Петру I</name>
+			<Point>
+				<coordinates>37.548461,55.832716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Монастырская трапезная</name>
+			<Point>
+				<coordinates>37.405639,55.790745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Царская пасека</name>
+			<Point>
+				<coordinates>37.784259,55.774222,0</coordinates>
 			</Point>
 		</Placemark>
 	</Document>

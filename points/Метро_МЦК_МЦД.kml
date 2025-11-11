@@ -2,7 +2,6 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
 		<name>Метро, МЦК, МЦД</name>
-
 		<Placemark>
 			<name>Владыкино (2)</name>
 			<Point>
@@ -243,7 +242,6 @@
 				<coordinates>37.463016,55.809499,0</coordinates>
 			</Point>
 		</Placemark>
-
 		<Placemark>
 			<name>МЦК Владыкино (2)</name>
 			<Point>
@@ -388,6 +386,5 @@
 				<coordinates>37.514686,55.744353,0</coordinates>
 			</Point>
 		</Placemark>
-
 	</Document>
 	</kml>

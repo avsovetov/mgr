@@ -260,5 +260,11 @@
 				<coordinates>37.651844,55.589901,0</coordinates>
 			</Point>
 		</Placemark>
+		<Placemark>
+			<name>013</name>
+			<Point>
+				<coordinates>37.743382,55.638073,0</coordinates>
+			</Point>
+		</Placemark>
 	</Document>
 	</kml>
