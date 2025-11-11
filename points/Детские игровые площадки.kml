@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>Детские игровые площадки</name>
+		<Placemark>
+			<name>Начало ЗКМ-100 миль</name>
+			<Point>
+				<coordinates>37.587235,55.842715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>окончание ЗКМ 163 км</name>
+			<Point>
+				<coordinates>37.587192,55.842544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ворота закрыты с 22 часов до 8 часов</name>
+			<Point>
+				<coordinates>37.587149,55.842372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Самая низкая точка ЗКМ 110м. над у/м.</name>
+			<Point>
+				<coordinates>37.760012,55.644854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.781813,55.710600,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.803120,55.731221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.822604,55.761455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.819815,55.762936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.815244,55.765704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.812347,55.763129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.809687,55.762421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.742803,55.800057,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.736730,55.800959,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.727203,55.809563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.726624,55.809821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.655814,55.831665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.652402,55.835677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.651501,55.836965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.643068,55.839840,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.643647,55.841857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.588587,55.841857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.539019,55.824326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.538419,55.824669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.535093,55.826944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.525115,55.831793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.523956,55.832137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.515867,55.845483,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.497241,55.835484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.497949,55.835634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.472715,55.825764,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.448575,55.810507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка — Кораблик</name>
+			<Point>
+				<coordinates>37.418556,55.801581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.400231,55.767613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.399652,55.769266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.423599,55.773064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.485912,55.748409,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.484946,55.748988,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.505288,55.720342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.514944,55.723325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.541530,55.712961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.504043,55.691524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.504601,55.684379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.498851,55.683735,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.488508,55.680817,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.479002,55.679358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.457695,55.677083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.456987,55.675903,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.460334,55.668114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.462909,55.658501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.475505,55.639211,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.594852,55.605844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка — Родная гавань</name>
+			<Point>
+				<coordinates>37.604401,55.606531,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.623777,55.603441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.675083,55.596982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.701862,55.628246,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.716067,55.629533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.731302,55.638696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.745314,55.638782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.753403,55.643159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.759926,55.645519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.762136,55.646399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.764068,55.647043,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.772136,55.650798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.774131,55.651120,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.778337,55.653008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.778315,55.653566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.778680,55.654617,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.778830,55.655390,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.779238,55.658523,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.788894,55.665067,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.793035,55.668844,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.795052,55.669723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.795653,55.671054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.796104,55.671526,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.816746,55.686139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.816810,55.685795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.790139,55.685860,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.781384,55.693778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.782199,55.694550,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.777886,55.699914,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка </name>
+			<Point>
+				<coordinates>37.781212,55.708798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Детская игровая площадка</name>
+			<Point>
+				<coordinates>37.803271,55.733989,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	</kml>
